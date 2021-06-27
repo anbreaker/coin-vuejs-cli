@@ -34,7 +34,7 @@ const getMarkets = async (coin) => {
 
     return res.data;
   } catch (error) {
-    console.error('Error en el request');
+    // console.error('Error en el request');
   }
 };
 
@@ -45,7 +45,7 @@ const getExchange = async (id) => {
 
     return res.data;
   } catch (error) {
-    console.error('Error en el request');
+    // console.error('Error en el request');
   }
 };
 

@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/coin-vuejs-cli',
-}
+  publicPath: '/',
+};
